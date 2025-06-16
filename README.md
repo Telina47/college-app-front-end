@@ -1,5 +1,12 @@
 # Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Prise en main technique:
+1. Cloner le dépot sur votre environnement de travail
+   git clone https://github.com/Telina47/college-app-front-end.git
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+2. Installer les packages
+   npm install
+   (Si npm ne marche pas, faire avec pnpm)
+
+3. Lancer en dev
+   npm run dev
