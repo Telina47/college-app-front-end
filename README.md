@@ -10,3 +10,7 @@ Prise en main technique:
 
 3. Lancer en dev
    npm run dev
+
+4.Mot de passe Admin:
+Pseudo: admin
+Password: admin
